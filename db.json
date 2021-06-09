@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting With Friends",
+      "day": "16th June @ 1: 00pm",
+      "reminder": false
+    },
+    {
+      "text": "Company Mixer ",
+      "day": "Tuesday @ 3:00pm",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
